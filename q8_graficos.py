@@ -5,13 +5,14 @@ import seaborn as sns
 # ============================
 # PALETA ALFA-EJA (fase 1)
 # ============================
+
 cores = {
-    "roxo": "#7E57C2",
-    "lilas": "#BA68C8",
-    "verde": "#4DB6AC",
-    "amarelo": "#FFCA28",
-    "rosa": "#F06292",
-    "ciano": "#4FC3F7"
+    "roxo": "#651B73",
+    "lilas": "#8E2BAF",
+    "verde": "#1CB9A3",
+    "amarelo": "#FDB913",
+    "rosa": "#E62270",
+    "ciano": "#008BBC"
 }
 
 palette = [cores["roxo"], cores["lilas"], cores["verde"], cores["amarelo"], cores["rosa"], cores["ciano"]]
